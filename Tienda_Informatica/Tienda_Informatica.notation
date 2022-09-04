@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_Ch-3gH1MEeyr2pyF8Il50w" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_b29iwH1MEeyr2pyF8Il50w" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_b3GFoH1MEeyr2pyF8Il50w" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_b3GFoX1MEeyr2pyF8Il50w" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_b3GFon1MEeyr2pyF8Il50w" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_b3GssH1MEeyr2pyF8Il50w" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_hmQjsH1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_5tYmoH1REeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_hmQjsX1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_iInC0H1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_8hH5kH1REeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iInC0X1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_irFdwH1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_E9H1gH1SEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_irFdwX1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_jYHi4H1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_G8P0oH1SEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_jYHi4X1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_saneIH1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_JgAx4H1SEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_saneIX1TEeyr2pyF8Il50w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_b3GssX1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_b3Gssn1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_b3Gss31MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b3GstH1MEeyr2pyF8Il50w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_b3GstX1MEeyr2pyF8Il50w" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_ofY-sH1TEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_Mam6wH1SEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ofY-sX1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_pDfKQH1TEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_N4cxwH1SEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_pDfKQX1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_po3vQH1TEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_POQuIH1SEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_po3vQX1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_qH_UMH1TEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_Qbum0H1SEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_qH_UMX1TEeyr2pyF8Il50w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_b3Gstn1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_b3Gst31MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_b3GsuH1MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b3GsuX1MEeyr2pyF8Il50w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_b3Gsun1MEeyr2pyF8Il50w" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_b3Gsu31MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_b3GsvH1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_b3GsvX1MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b3Gsvn1MEeyr2pyF8Il50w"/>
+    </children>
+    <element xmi:type="uml:Class" href="Tienda_Informatica.uml#_b2H1QH1MEeyr2pyF8Il50w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b29iwX1MEeyr2pyF8Il50w" x="360"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_jPHcEH1MEeyr2pyF8Il50w" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_jPIDIH1MEeyr2pyF8Il50w" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_jPIDIX1MEeyr2pyF8Il50w" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_jPIDIn1MEeyr2pyF8Il50w" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_jPIDI31MEeyr2pyF8Il50w" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_usLREH1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_tW0Z8n1OEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_usLREX1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_vZUD4H1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_KEud8H1REeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_vZUD4X1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_v7F7QH1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_RH-eQH1REeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_v7F7QX1TEeyr2pyF8Il50w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_jPIDJH1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_jPIDJX1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_jPIDJn1MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jPIDJ31MEeyr2pyF8Il50w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_jPIDKH1MEeyr2pyF8Il50w" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_waYfUH1TEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_eAqA4H1REeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_waYfUX1TEeyr2pyF8Il50w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_jPIDKX1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_jPIDKn1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_jPIDK31MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jPIDLH1MEeyr2pyF8Il50w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_jPIDLX1MEeyr2pyF8Il50w" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_jPIDLn1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_jPIDL31MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_jPIDMH1MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jPIDMX1MEeyr2pyF8Il50w"/>
+    </children>
+    <element xmi:type="uml:Class" href="Tienda_Informatica.uml#_jPFm4H1MEeyr2pyF8Il50w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jPHcEX1MEeyr2pyF8Il50w" x="720" y="60"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_n5m1QH1MEeyr2pyF8Il50w" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_n5ncUH1MEeyr2pyF8Il50w" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_n5ncUX1MEeyr2pyF8Il50w" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_n5ncUn1MEeyr2pyF8Il50w" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_n5ncU31MEeyr2pyF8Il50w" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_suHMcH1UEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_v-XD8n1OEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_suHMcX1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_tI_KkH1UEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_8tOmcH1SEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_tI_KkX1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_tsJiAH1UEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_W8H8QH1TEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_tsJiAX1UEeyr2pyF8Il50w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_n5ncVH1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_n5ncVX1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_n5ncVn1MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n5ncV31MEeyr2pyF8Il50w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_n5ncWH1MEeyr2pyF8Il50w" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_uRg44H1UEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#__JEWwH1SEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_uRg44X1UEeyr2pyF8Il50w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_n5ncWX1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_n5ncWn1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_n5ncW31MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n5ncXH1MEeyr2pyF8Il50w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_n5ncXX1MEeyr2pyF8Il50w" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_n5ncXn1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_n5ncX31MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_n5ncYH1MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n5ncYX1MEeyr2pyF8Il50w"/>
+    </children>
+    <element xmi:type="uml:Class" href="Tienda_Informatica.uml#_n5lAEH1MEeyr2pyF8Il50w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n5m1QX1MEeyr2pyF8Il50w" y="300"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_qfKiQH1MEeyr2pyF8Il50w" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_qfKiQn1MEeyr2pyF8Il50w" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_qfLJUH1MEeyr2pyF8Il50w" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_qfLJUX1MEeyr2pyF8Il50w" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_qfLJUn1MEeyr2pyF8Il50w" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_oRURAH1UEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_u8WNUX1OEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_oRURAX1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_o1vzwH1UEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_q86mgH1SEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_o1vzwX1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_pdH80H1UEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_S-MuIH1TEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_pdH80X1UEeyr2pyF8Il50w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_qfLJU31MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_qfLJVH1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_qfLJVX1MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qfLJVn1MEeyr2pyF8Il50w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_qfLJV31MEeyr2pyF8Il50w" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_qDjqsH1UEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_4Vz6QH1SEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_qDjqsX1UEeyr2pyF8Il50w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_qfLJWH1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_qfLJWX1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_qfLJWn1MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qfLJW31MEeyr2pyF8Il50w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_qfLJXH1MEeyr2pyF8Il50w" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_qfLJXX1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_qfLJXn1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_qfLJX31MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qfLJYH1MEeyr2pyF8Il50w"/>
+    </children>
+    <element xmi:type="uml:Class" href="Tienda_Informatica.uml#_qfItEH1MEeyr2pyF8Il50w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qfKiQX1MEeyr2pyF8Il50w" x="280" y="260"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_u4ujgH1MEeyr2pyF8Il50w" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_u4ujgn1MEeyr2pyF8Il50w" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_u4ujg31MEeyr2pyF8Il50w" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_u4vKkH1MEeyr2pyF8Il50w" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_u4vKkX1MEeyr2pyF8Il50w" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_Q-tGIH1UEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_2qPtIn1OEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Q-tGIX1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_W0WD0H1UEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_vbDtIH1PEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_W0WD0X1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_XXU1EH1UEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_2_9B8H1PEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_XXU1EX1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_X18qwH1UEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_80BSUH1PEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_X18qwX1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Yh8OEH1UEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_FJdTQH1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Yh8OEX1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Y8CwIH1UEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_IKR_8H1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Y8CwIX1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_ZZ37oH1UEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_OFMX0H1TEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ZZ37oX1UEeyr2pyF8Il50w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_u4vKkn1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_u4vKk31MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_u4vKlH1MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u4vKlX1MEeyr2pyF8Il50w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_u4vKln1MEeyr2pyF8Il50w" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_a1jPcH1UEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_XdZksH1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_a1jPcX1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_bY-FkH1UEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_cD7D4H1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_bY-FkX1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_b0XoIH1UEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_dpdeUH1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_b0XoIX1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_cPv8kH1UEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_e5KLoH1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_cPv8kX1UEeyr2pyF8Il50w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_u4vKl31MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_u4vKmH1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_u4vKmX1MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u4vKmn1MEeyr2pyF8Il50w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_u4vKm31MEeyr2pyF8Il50w" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_u4vKnH1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_u4vKnX1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_u4vKnn1MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u4vKn31MEeyr2pyF8Il50w"/>
+    </children>
+    <element xmi:type="uml:Class" href="Tienda_Informatica.uml#_u4tVYH1MEeyr2pyF8Il50w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u4ujgX1MEeyr2pyF8Il50w" x="540" y="260"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_ywdqEH1MEeyr2pyF8Il50w" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_yweRIH1MEeyr2pyF8Il50w" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_yweRIX1MEeyr2pyF8Il50w" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_yweRIn1MEeyr2pyF8Il50w" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_yweRI31MEeyr2pyF8Il50w" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_yq_3EH1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_w5tR4H1OEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_yq_3EX1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_zdlxoH1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_n5Od8H1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zdlxoX1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_z67N4H1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_sIVisH1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_z67N4X1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_0d6mMH1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_uyHBUH1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_0d6mMX1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_08LPgH1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_xz-24H1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_08LPgX1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_1arwcH1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_1MgR4H1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_1arwcX1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_2HpkIH1TEeyr2pyF8Il50w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_39Cf0H1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_2HpkIX1TEeyr2pyF8Il50w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_yweRJH1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_yweRJX1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_yweRJn1MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yweRJ31MEeyr2pyF8Il50w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_yweRKH1MEeyr2pyF8Il50w" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_3cf3MH1TEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_7orrIH1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_3cf3MX1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_38m6oH1TEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_9YnXsH1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_38m6oX1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_4cNAsH1TEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_-wUxgH1QEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4cNAsX1TEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_5pPbkH1TEeyr2pyF8Il50w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_AJ7BsH1REeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5pPbkX1TEeyr2pyF8Il50w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_yweRKX1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_yweRKn1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_yweRK31MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yweRLH1MEeyr2pyF8Il50w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_ywe4MH1MEeyr2pyF8Il50w" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ywe4MX1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_ywe4Mn1MEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_ywe4M31MEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ywe4NH1MEeyr2pyF8Il50w"/>
+    </children>
+    <element xmi:type="uml:Class" href="Tienda_Informatica.uml#_ywb04H1MEeyr2pyF8Il50w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ywdqEX1MEeyr2pyF8Il50w" x="860" y="300" width="138" height="181"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_g2yn4H1OEeyr2pyF8Il50w" type="AssociationClass_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_g2yn4n1OEeyr2pyF8Il50w" type="AssociationClass_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_g2zO8H1OEeyr2pyF8Il50w" type="AssociationClass_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_g2zO8X1OEeyr2pyF8Il50w" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_g2zO8n1OEeyr2pyF8Il50w" type="AssociationClass_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_jyMaUH1UEeyr2pyF8Il50w" type="Property_ComponentAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_Z1UMYH1SEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_jyMaUX1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_kejKAH1UEeyr2pyF8Il50w" type="Property_ComponentAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_g0RfYn1OEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_kejKAX1UEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_k9hlAH1UEeyr2pyF8Il50w" type="Property_ComponentAttributeLabel">
+        <element xmi:type="uml:Property" href="Tienda_Informatica.uml#_g0StgH1OEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_k9hlAX1UEeyr2pyF8Il50w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_g2zO831OEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_g2zO9H1OEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_g2zO9X1OEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g2zO9n1OEeyr2pyF8Il50w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_g2zO931OEeyr2pyF8Il50w" type="AssociationClass_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_rYox0H1VEeyr2pyF8Il50w" type="Operation_ComponentOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_rYDjAH1VEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_rYox0X1VEeyr2pyF8Il50w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_thbDQH1VEeyr2pyF8Il50w" type="Operation_ComponentOperationLabel">
+        <element xmi:type="uml:Operation" href="Tienda_Informatica.uml#_tg3poH1VEeyr2pyF8Il50w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_thbDQX1VEeyr2pyF8Il50w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_g2zO-H1OEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_g2zO-X1OEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_g2zO-n1OEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g2zO-31OEeyr2pyF8Il50w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_g2zO_H1OEeyr2pyF8Il50w" type="AssociationClass_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_g2zO_X1OEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_g2zO_n1OEeyr2pyF8Il50w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_g2zO_31OEeyr2pyF8Il50w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g2zPAH1OEeyr2pyF8Il50w"/>
+    </children>
+    <element xmi:type="uml:AssociationClass" href="Tienda_Informatica.uml#_g0QRQH1OEeyr2pyF8Il50w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g2yn4X1OEeyr2pyF8Il50w" y="40"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_Ch-3gX1MEeyr2pyF8Il50w" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_Ch-3gn1MEeyr2pyF8Il50w"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_Ch-3g31MEeyr2pyF8Il50w" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+    <owner xmi:type="uml:Model" href="Tienda_Informatica.uml#_CRTXMH1MEeyr2pyF8Il50w"/>
+  </styles>
+  <element xmi:type="uml:Model" href="Tienda_Informatica.uml#_CRTXMH1MEeyr2pyF8Il50w"/>
+  <edges xmi:type="notation:Connector" xmi:id="_C3k3kH1NEeyr2pyF8Il50w" type="Generalization_Edge" source="_jPHcEH1MEeyr2pyF8Il50w" target="_b29iwH1MEeyr2pyF8Il50w">
+    <children xmi:type="notation:DecorationNode" xmi:id="_C3k3k31NEeyr2pyF8Il50w" type="Generalization_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_k0QJsH1TEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_C3k3lH1NEeyr2pyF8Il50w" y="40"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_C3k3kX1NEeyr2pyF8Il50w"/>
+    <element xmi:type="uml:Generalization" href="Tienda_Informatica.uml#_C3TKwH1NEeyr2pyF8Il50w"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_C3k3kn1NEeyr2pyF8Il50w" points="[720, 140, -643984, -643984]$[600, 140, -643984, -643984]$[555, 140, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_C4KGYH1NEeyr2pyF8Il50w" id="(0.0,0.5925925925925926)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_C4KGYX1NEeyr2pyF8Il50w" id="(1.0,0.6511627906976745)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_g0zD0H1OEeyr2pyF8Il50w" type="AssociationClass_Edge" source="_qfKiQH1MEeyr2pyF8Il50w" target="_n5m1QH1MEeyr2pyF8Il50w">
+    <children xmi:type="notation:DecorationNode" xmi:id="_g0zq4H1OEeyr2pyF8Il50w" type="AssociationClass_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kcCQQH1OEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_g0zq4X1OEeyr2pyF8Il50w" x="-1" y="12"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_g0zq4n1OEeyr2pyF8Il50w" type="AssociationClass_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kcQ5wH1OEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_g0zq431OEeyr2pyF8Il50w" x="32" y="13"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_g0zD0X1OEeyr2pyF8Il50w"/>
+    <element xmi:type="uml:AssociationClass" href="Tienda_Informatica.uml#_g0QRQH1OEeyr2pyF8Il50w"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_g0zD0n1OEeyr2pyF8Il50w" points="[280, 320, -643984, -643984]$[160, 240, -643984, -643984]$[80, 300, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_g2fs8H1OEeyr2pyF8Il50w" id="(0.0,0.4444444444444444)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_g2fs8X1OEeyr2pyF8Il50w" id="(0.42328042328042326,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_g4YjUH1OEeyr2pyF8Il50w" type="AssociationClass_TetherEdge" source="_g0zD0H1OEeyr2pyF8Il50w" target="_g2yn4H1OEeyr2pyF8Il50w">
+    <styles xmi:type="notation:FontStyle" xmi:id="_g4YjUX1OEeyr2pyF8Il50w"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_g4YjUn1OEeyr2pyF8Il50w" points="[219, 300, -643984, -643984]$[120, 180, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_g4ZKYH1OEeyr2pyF8Il50w" id="(0.5563636363636364,0.7307692307692307)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hinzIH1OEeyr2pyF8Il50w" id="(0.5797101449275363,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_qKLe0H1OEeyr2pyF8Il50w" type="Generalization_Edge" source="_g2yn4H1OEeyr2pyF8Il50w" target="_b29iwH1MEeyr2pyF8Il50w">
+    <children xmi:type="notation:DecorationNode" xmi:id="_qKLe031OEeyr2pyF8Il50w" type="Generalization_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_36XpgH1UEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_qKLe1H1OEeyr2pyF8Il50w" y="39"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_qKLe0X1OEeyr2pyF8Il50w"/>
+    <element xmi:type="uml:Generalization" href="Tienda_Informatica.uml#_qJ4j4H1OEeyr2pyF8Il50w"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qKLe0n1OEeyr2pyF8Il50w" points="[220, 160, -643984, -643984]$[360, 80, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_qKzw8H1OEeyr2pyF8Il50w" id="(1.0,0.625)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_qKzw8X1OEeyr2pyF8Il50w" id="(0.0,0.5581395348837209)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_tXIjAH1OEeyr2pyF8Il50w" type="Association_Edge" source="_jPHcEH1MEeyr2pyF8Il50w" target="_u4ujgH1MEeyr2pyF8Il50w">
+    <children xmi:type="notation:DecorationNode" xmi:id="_tXJKEH1OEeyr2pyF8Il50w" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_k0goYH1TEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tXJKEX1OEeyr2pyF8Il50w" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_tXJKEn1OEeyr2pyF8Il50w" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_k0zjUH1TEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tXJKE31OEeyr2pyF8Il50w" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_tXJKFH1OEeyr2pyF8Il50w" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_k1QPQH1TEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tXJKFX1OEeyr2pyF8Il50w" x="-23" y="-24"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_tXJKFn1OEeyr2pyF8Il50w" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_k1m0kH1TEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tXJKF31OEeyr2pyF8Il50w" x="-19" y="26"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_tXJKGH1OEeyr2pyF8Il50w" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_k2FVsH1TEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tXJKGX1OEeyr2pyF8Il50w" x="15" y="-27"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_tXJxIH1OEeyr2pyF8Il50w" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_k2nhMH1TEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tXJxIX1OEeyr2pyF8Il50w" x="8" y="17"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_tXIjAX1OEeyr2pyF8Il50w"/>
+    <element xmi:type="uml:Association" href="Tienda_Informatica.uml#_tWzy4H1OEeyr2pyF8Il50w"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tXIjAn1OEeyr2pyF8Il50w" points="[922, 160, -643984, -643984]$[600, 340, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tX5YAH1OEeyr2pyF8Il50w" id="(0.19801980198019803,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tX5YAX1OEeyr2pyF8Il50w" id="(0.3972602739726027,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_u8qWYH1OEeyr2pyF8Il50w" type="Association_Edge" source="_qfKiQH1MEeyr2pyF8Il50w" target="_u4ujgH1MEeyr2pyF8Il50w">
+    <children xmi:type="notation:DecorationNode" xmi:id="_u8qWY31OEeyr2pyF8Il50w" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_8MpXAH1UEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_u8qWZH1OEeyr2pyF8Il50w" x="1" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_u8qWZX1OEeyr2pyF8Il50w" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_8NH4IH1UEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_u8qWZn1OEeyr2pyF8Il50w" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_u8qWZ31OEeyr2pyF8Il50w" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_8NvjMH1UEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_u8qWaH1OEeyr2pyF8Il50w" x="-32" y="12"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_u8qWaX1OEeyr2pyF8Il50w" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_8Od78H1UEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_u8qWan1OEeyr2pyF8Il50w" x="-7" y="-48"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_u8q9cH1OEeyr2pyF8Il50w" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_8PKfgH1UEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_u8q9cX1OEeyr2pyF8Il50w" x="-15" y="32"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_u8q9cn1OEeyr2pyF8Il50w" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_8PmkYH1UEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_u8q9c31OEeyr2pyF8Il50w" x="-27" y="-29"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_u8qWYX1OEeyr2pyF8Il50w"/>
+    <element xmi:type="uml:Association" href="Tienda_Informatica.uml#_u8VmQH1OEeyr2pyF8Il50w"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_u8qWYn1OEeyr2pyF8Il50w" points="[420, 395, -643984, -643984]$[420, 395, -643984, -643984]$[420, 440, -643984, -643984]$[540, 440, -643984, -643984]$[540, 420, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_u9bLYH1OEeyr2pyF8Il50w" id="(0.7954545454545454,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_u9bycH1OEeyr2pyF8Il50w" id="(0.0,0.5668016194331984)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_w5_lwH1OEeyr2pyF8Il50w" type="Association_Edge" source="_ywdqEH1MEeyr2pyF8Il50w" target="_u4ujgH1MEeyr2pyF8Il50w">
+    <children xmi:type="notation:DecorationNode" xmi:id="_w5_lw31OEeyr2pyF8Il50w" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_lX6QYH1TEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_w5_lxH1OEeyr2pyF8Il50w" x="1" y="-19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_w5_lxX1OEeyr2pyF8Il50w" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_lYJg8H1TEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_w5_lxn1OEeyr2pyF8Il50w" x="-1" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_w5_lx31OEeyr2pyF8Il50w" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_lYbNwH1TEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_w5_lyH1OEeyr2pyF8Il50w" x="43" y="-19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_w5_lyX1OEeyr2pyF8Il50w" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_lYthoH1TEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_w5_lyn1OEeyr2pyF8Il50w" x="-36" y="23"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_w5_ly31OEeyr2pyF8Il50w" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_lY_OcH1TEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_w5_lzH1OEeyr2pyF8Il50w" x="23" y="-43"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_w5_lzX1OEeyr2pyF8Il50w" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_lZPtIH1TEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_w5_lzn1OEeyr2pyF8Il50w" x="-32" y="4"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_w5_lwX1OEeyr2pyF8Il50w"/>
+    <element xmi:type="uml:Association" href="Tienda_Informatica.uml#_w5sDwH1OEeyr2pyF8Il50w"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_w5_lwn1OEeyr2pyF8Il50w" points="[800, 320, -643984, -643984]$[660, 380, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_w6_rUH1OEeyr2pyF8Il50w" id="(0.0,0.3314917127071823)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_w6_rUX1OEeyr2pyF8Il50w" id="(1.0,0.3967611336032389)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_2qj2MH1OEeyr2pyF8Il50w" type="Association_Edge" source="_u4ujgH1MEeyr2pyF8Il50w" target="_n5m1QH1MEeyr2pyF8Il50w">
+    <children xmi:type="notation:DecorationNode" xmi:id="_2qj2M31OEeyr2pyF8Il50w" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_5kg3IH1UEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_2qj2NH1OEeyr2pyF8Il50w" y="-19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_2qj2NX1OEeyr2pyF8Il50w" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_5k4qkH1UEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_2qj2Nn1OEeyr2pyF8Il50w" x="-1" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_2qj2N31OEeyr2pyF8Il50w" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_5lWkoH1UEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_2qj2OH1OEeyr2pyF8Il50w" x="48" y="-7"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_2qj2OX1OEeyr2pyF8Il50w" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_5l0esH1UEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_2qj2On1OEeyr2pyF8Il50w" x="-49" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_2qkdQH1OEeyr2pyF8Il50w" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_5mTm4H1UEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_2qkdQX1OEeyr2pyF8Il50w" x="7" y="-8"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_2qkdQn1OEeyr2pyF8Il50w" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_5mraUH1UEeyr2pyF8Il50w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_2qkdQ31OEeyr2pyF8Il50w" x="-32" y="-11"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_2qj2MX1OEeyr2pyF8Il50w"/>
+    <element xmi:type="uml:Association" href="Tienda_Informatica.uml#_2qPGEH1OEeyr2pyF8Il50w"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2qj2Mn1OEeyr2pyF8Il50w" points="[540, 460, -643984, -643984]$[260, 460, -643984, -643984]$[189, 420, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2raKwH1OEeyr2pyF8Il50w" id="(0.0,0.8097165991902834)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2raKwX1OEeyr2pyF8Il50w" id="(1.0,0.8888888888888888)"/>
+  </edges>
+</notation:Diagram>

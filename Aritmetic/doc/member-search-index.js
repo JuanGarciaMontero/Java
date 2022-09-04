@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Aritmetic","c":"Aritmetic","l":"Aritmetic()","u":"%3Cinit%3E()"},{"p":"Aritmetic","c":"Aritmetic","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"Aritmetic","c":"Aritmetic","l":"resta(int, int, int)","u":"resta(int,int,int)"},{"p":"Aritmetic","c":"Aritmetic","l":"suma(int, int, int)","u":"suma(int,int,int)"}];updateSearchResults();

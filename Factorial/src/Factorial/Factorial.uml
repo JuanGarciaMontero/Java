@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_C0FwQG5bEeyrlbg-ZKZ38w" name="Factorial">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_C16VMG5bEeyrlbg-ZKZ38w">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_k27jgG5bEeyrlbg-ZKZ38w" name="Activity2"/>
+</uml:Model>

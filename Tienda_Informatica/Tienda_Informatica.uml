@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_CRTXMH1MEeyr2pyF8Il50w" name="Tienda_Informatica">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_Ct2JQH1MEeyr2pyF8Il50w">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_b2H1QH1MEeyr2pyF8Il50w" name="Usuario">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_5tYmoH1REeyr2pyF8Il50w" name="DNI">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_8hH5kH1REeyr2pyF8Il50w" name="nombre">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_E9H1gH1SEeyr2pyF8Il50w" name="correo_electronico">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_G8P0oH1SEeyr2pyF8Il50w" name="telefono">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_JgAx4H1SEeyr2pyF8Il50w" name="direccion">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_Mam6wH1SEeyr2pyF8Il50w" name="ingresar"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_N4cxwH1SEeyr2pyF8Il50w" name="modificar"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_POQuIH1SEeyr2pyF8Il50w" name="consultar"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_Qbum0H1SEeyr2pyF8Il50w" name="eliminar"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_jPFm4H1MEeyr2pyF8Il50w" name="Vendedor">
+    <generalization xmi:type="uml:Generalization" xmi:id="_C3TKwH1NEeyr2pyF8Il50w" general="_b2H1QH1MEeyr2pyF8Il50w"/>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_tW0Z8n1OEeyr2pyF8Il50w" name="producto" type="_u4tVYH1MEeyr2pyF8Il50w" association="_tWzy4H1OEeyr2pyF8Il50w">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_tW0Z831OEeyr2pyF8Il50w"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_tW1BAH1OEeyr2pyF8Il50w" value="1"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_KEud8H1REeyr2pyF8Il50w" name="id_vendedor"/>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_RH-eQH1REeyr2pyF8Il50w" name="id_venta"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_eAqA4H1REeyr2pyF8Il50w" name="vender"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_n5lAEH1MEeyr2pyF8Il50w" name="Devoluciones">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_v-XD8n1OEeyr2pyF8Il50w" name="producto" type="_u4tVYH1MEeyr2pyF8Il50w" association="_v-Wc4H1OEeyr2pyF8Il50w">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_v-XrAH1OEeyr2pyF8Il50w"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_v-XrAX1OEeyr2pyF8Il50w" value="1"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_8tOmcH1SEeyr2pyF8Il50w" name="id_devolucion">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_W8H8QH1TEeyr2pyF8Il50w" name="fecha_devolucion">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EDate"/>
+    </ownedAttribute>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="__JEWwH1SEeyr2pyF8Il50w" name="devolver"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_qfItEH1MEeyr2pyF8Il50w" name="Pedidos">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_u8WNUX1OEeyr2pyF8Il50w" name="producto" type="_u4tVYH1MEeyr2pyF8Il50w" association="_u8VmQH1OEeyr2pyF8Il50w">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_u8WNUn1OEeyr2pyF8Il50w"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_u8W0YH1OEeyr2pyF8Il50w" value="1"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_q86mgH1SEeyr2pyF8Il50w" name="id_pedido">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_S-MuIH1TEeyr2pyF8Il50w" name="fecha_pedido">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EDate"/>
+    </ownedAttribute>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_4Vz6QH1SEeyr2pyF8Il50w" name="pedir"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_u4tVYH1MEeyr2pyF8Il50w" name="Producto">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_2qPtIn1OEeyr2pyF8Il50w" name="devoluciones" type="_n5lAEH1MEeyr2pyF8Il50w" association="_2qPGEH1OEeyr2pyF8Il50w">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_2qQUMH1OEeyr2pyF8Il50w"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2qQUMX1OEeyr2pyF8Il50w" value="1"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_vbDtIH1PEeyr2pyF8Il50w" name="Id_articulo">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_2_9B8H1PEeyr2pyF8Il50w" name="nombre_articulo">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_80BSUH1PEeyr2pyF8Il50w" name="marca">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_FJdTQH1QEeyr2pyF8Il50w" name="referencia">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_IKR_8H1QEeyr2pyF8Il50w" name="stock">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_OFMX0H1TEeyr2pyF8Il50w" name="fecha_entrada">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EDate"/>
+    </ownedAttribute>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_XdZksH1QEeyr2pyF8Il50w" name="ingresar"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_cD7D4H1QEeyr2pyF8Il50w" name="modificar"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_dpdeUH1QEeyr2pyF8Il50w" name="consultar"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_e5KLoH1QEeyr2pyF8Il50w" name="eliminar"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_ywb04H1MEeyr2pyF8Il50w" name="Proveedores">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_w5tR4H1OEeyr2pyF8Il50w" name="producto" type="_u4tVYH1MEeyr2pyF8Il50w" association="_w5sDwH1OEeyr2pyF8Il50w">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_w5tR4X1OEeyr2pyF8Il50w"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_w5tR4n1OEeyr2pyF8Il50w" value="1"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_n5Od8H1QEeyr2pyF8Il50w" name="id_proveedor">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_sIVisH1QEeyr2pyF8Il50w" name="nombre">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_uyHBUH1QEeyr2pyF8Il50w" name="CIF">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_xz-24H1QEeyr2pyF8Il50w" name="direccion">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_1MgR4H1QEeyr2pyF8Il50w" name="correo_electrónico ">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_39Cf0H1QEeyr2pyF8Il50w" name="telefono">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+    </ownedAttribute>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_7orrIH1QEeyr2pyF8Il50w" name="ingresar"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_9YnXsH1QEeyr2pyF8Il50w" name="modificar"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_-wUxgH1QEeyr2pyF8Il50w" name="consultar"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_AJ7BsH1REeyr2pyF8Il50w" name="eliminar"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:AssociationClass" xmi:id="_g0QRQH1OEeyr2pyF8Il50w" name="Cliente" memberEnd="_g0RfYn1OEeyr2pyF8Il50w _g0StgH1OEeyr2pyF8Il50w">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_g0RfYH1OEeyr2pyF8Il50w" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_g0RfYX1OEeyr2pyF8Il50w" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <generalization xmi:type="uml:Generalization" xmi:id="_qJ4j4H1OEeyr2pyF8Il50w" general="_b2H1QH1MEeyr2pyF8Il50w"/>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_Z1UMYH1SEeyr2pyF8Il50w" name="id_cliente">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+    </ownedAttribute>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_rYDjAH1VEeyr2pyF8Il50w" name="comprar"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_tg3poH1VEeyr2pyF8Il50w" name="devolver"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_g0RfYn1OEeyr2pyF8Il50w" name="devoluciones" type="_n5lAEH1MEeyr2pyF8Il50w" association="_g0QRQH1OEeyr2pyF8Il50w"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_g0StgH1OEeyr2pyF8Il50w" name="pedidos" type="_qfItEH1MEeyr2pyF8Il50w" association="_g0QRQH1OEeyr2pyF8Il50w"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_tWzy4H1OEeyr2pyF8Il50w" memberEnd="_tW0Z8n1OEeyr2pyF8Il50w _tW1BAX1OEeyr2pyF8Il50w">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_tW0Z8H1OEeyr2pyF8Il50w" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_tW0Z8X1OEeyr2pyF8Il50w" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_tW1BAX1OEeyr2pyF8Il50w" name="vendedor" type="_jPFm4H1MEeyr2pyF8Il50w" association="_tWzy4H1OEeyr2pyF8Il50w"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_u8VmQH1OEeyr2pyF8Il50w" memberEnd="_u8WNUX1OEeyr2pyF8Il50w _u8W0YX1OEeyr2pyF8Il50w">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_u8VmQX1OEeyr2pyF8Il50w" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_u8WNUH1OEeyr2pyF8Il50w" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_u8W0YX1OEeyr2pyF8Il50w" name="pedidos" type="_qfItEH1MEeyr2pyF8Il50w" association="_u8VmQH1OEeyr2pyF8Il50w"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_v-Wc4H1OEeyr2pyF8Il50w" memberEnd="_v-XD8n1OEeyr2pyF8Il50w _v-XrAn1OEeyr2pyF8Il50w">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_v-XD8H1OEeyr2pyF8Il50w" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_v-XD8X1OEeyr2pyF8Il50w" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_v-XrAn1OEeyr2pyF8Il50w" name="devoluciones" type="_n5lAEH1MEeyr2pyF8Il50w" association="_v-Wc4H1OEeyr2pyF8Il50w"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_w5sDwH1OEeyr2pyF8Il50w" memberEnd="_w5tR4H1OEeyr2pyF8Il50w _w5tR431OEeyr2pyF8Il50w">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_w5sq0H1OEeyr2pyF8Il50w" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_w5sq0X1OEeyr2pyF8Il50w" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_w5tR431OEeyr2pyF8Il50w" name="proveedores" type="_ywb04H1MEeyr2pyF8Il50w" association="_w5sDwH1OEeyr2pyF8Il50w"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_2qPGEH1OEeyr2pyF8Il50w" memberEnd="_2qPtIn1OEeyr2pyF8Il50w _2qQUMn1OEeyr2pyF8Il50w">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_2qPtIH1OEeyr2pyF8Il50w" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2qPtIX1OEeyr2pyF8Il50w" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_2qQUMn1OEeyr2pyF8Il50w" name="producto" type="_u4tVYH1MEeyr2pyF8Il50w" association="_2qPGEH1OEeyr2pyF8Il50w"/>
+  </packagedElement>
+</uml:Model>
